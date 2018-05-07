@@ -1,4 +1,4 @@
 def get_data():
-    print("LOL")
+    print("hehehehe")
 if __name__ == '__main__':
     get_data()
